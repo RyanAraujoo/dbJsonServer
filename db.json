@@ -1,0 +1,595 @@
+{
+  "users": [
+    {
+      "user": "admin",
+      "password": "admin123",
+      "trail": "wVQK0dEV42s4P9"
+    },
+    {
+      "user": "agata",
+      "password": "agata123",
+      "trail": "A84*BjQ9a2j50RX"
+    },
+    {
+      "user": "ryan",
+      "password": "ryan123",
+      "trail": "MZR76cr2Ylb9B0V"
+    },
+    {
+      "user": "joao",
+      "password": "joao123",
+      "trail": "99I5940CrkHt!g"
+    }
+  ],
+  "trails": [
+    {
+      "id": "MZR76cr2Ylb9B0V",
+      "options": [
+        {
+          "id": "27rP&SEw0W9k",
+          "title": "Front End",
+          "description": "Este plano de estudos foi desenvolvido de acordo com as demandas do mercado de trabalho atual, ao finalizar os estudos você estará apto a se lançar no mercado de trabalho.",
+          "course": [
+            {
+              "title": "START",
+              "type": "Teoria",
+              "description": "Comece por aqui",
+              "links": [
+                "https://www.youtube.com/watch?v=HvP0kQU4Svk&list=PLhMbqdk2mNpcUE9z7zzqPBpDnOJQ3Jb17&index=18"
+              ],
+              "alert": "Para meia hora de aula, 5 de prática! Vamos comprovar nosso conhecimento!"
+            },
+            {
+              "title": "JAVASCRIPT",
+              "type": "Pratica",
+              "description": "Aprenda a lógica da programação",
+              "links": [
+                "https://www.youtube.com/watch?v=HvP0kQU4Svk&list=PLhMbqdk2mNpcUE9z7zzqPBpDnOJQ3Jb17&index=18"
+              ],
+              "alert": "Para meia hora de aula, 5 de prática! Vamos comprovar nosso conhecimento!"
+            }
+          ]
+        },
+        {
+          "id": "$E84cZ9b2oZe",
+          "options": [
+            {
+              "title": "Como crescer no Front-End?",
+              "link": "https://www.treinaweb.com.br/blog/como-crescer-no-front-end"
+            },
+            {
+              "title": "100 dicas sobre desenvolvimento Front-end",
+              "link": "https://medium.com/@felipefialho/100-dicas-sobre-desenvolvimento-front-end-2079dcc752a7"
+            },
+            {
+              "title": "20 tópicos que todo desenvolvedor Front-end deveria saber",
+              "link": "https://www.impacta.com.br/blog/20-topicos-bom-desenvolvedor-front-end-deveria-saber/"
+            }
+          ]
+        },
+        {
+          "id": "aac846ET8uS",
+          "options": [
+            {
+              "title": "Use a Cabeça! Padrões de Projetos",
+              "asset": "../../../../assets/trails/options-trails/livros_ti360/livro1-front-end.png"
+            },
+            {
+              "title": "Código limpo: Habilidades Práticas do Agile Software",
+              "asset": "../../../../assets/trails/options-trails/livros_ti360/livro2-front-end.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wVQK0dEV42s4P9",
+      "options": [
+        {
+          "id": "27rP&SEw0W9k",
+          "title": "Product Owner",
+          "description": "Este plano de estudos foi desenvolvido de acordo com as demandas do mercado de trabalho atual, ao finalizar os estudos você estará apto a se lançar no mercado de trabalho.",
+          "course": [
+            {
+              "title": "START",
+              "type": "Teoria",
+              "description": "Comece por aqui",
+              "links": [
+                "https://www.youtube.com/watch?v=HvP0kQU4Svk&list=PLhMbqdk2mNpcUE9z7zzqPBpDnOJQ3Jb17&index=18"
+              ],
+              "alert": "Para meia hora de aula, 5 de prática! Vamos comprovar nosso conhecimento!"
+            },
+            {
+              "title": "JAVASCRIPT",
+              "type": "Pratica",
+              "description": "Aprenda a lógica da programação",
+              "links": [
+                "https://www.youtube.com/watch?v=HvP0kQU4Svk&list=PLhMbqdk2mNpcUE9z7zzqPBpDnOJQ3Jb17&index=18"
+              ],
+              "alert": "Para meia hora de aula, 5 de prática! Vamos comprovar nosso conhecimento!"
+            }
+          ]
+        },
+        {
+          "id": "$E84cZ9b2oZe",
+          "options": [
+            {
+              "title": "As 10 Principais características do Papel do PO e como cada uma delas gera resultado?",
+              "link": "https://www.metodoagil.com/papel-do-po/"
+            },
+            {
+              "title": "Como é o dia a dia de um product owner durante o home office",
+              "link": "https://inovacaobrain.com.br/dia-a-dia-de-um-product-owner/"
+            },
+            {
+              "title": "Product Owner – 10 dicas valiosas para a Gestão do Produto",
+              "link": "https://www.gp4us.com.br/product-owner/"
+            }
+          ]
+        },
+        {
+          "id": "aac846ET8uS",
+          "options": [
+            {
+              "title": "Lean Inception",
+              "asset": "../../../../assets/trails/options-trails/livros_ti360/livro1-lean-inception.png"
+            },
+            {
+              "title": "Código limpo: Habilidades Práticas do Agile Software",
+              "asset": "../../../../assets/trails/options-trails/livros_ti360/livro2-front-end.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34JEBnYV11ab#C",
+      "options": [
+        {
+          "id": "27rP&SEw0W9k",
+          "title": "Agilidade",
+          "description": "Este plano de estudos foi desenvolvido de acordo com as demandas do mercado de trabalho atual, ao finalizar os estudos você estará apto a se lançar no mercado de trabalho.",
+          "course": [
+            {
+              "title": "START",
+              "type": "Teoria",
+              "description": "Comece por aqui",
+              "links": [
+                "https://www.youtube.com/watch?v=HvP0kQU4Svk&list=PLhMbqdk2mNpcUE9z7zzqPBpDnOJQ3Jb17&index=18"
+              ],
+              "alert": "Para meia hora de aula, 5 de prática! Vamos comprovar nosso conhecimento!"
+            },
+            {
+              "title": "JAVASCRIPT",
+              "type": "Pratica",
+              "description": "Aprenda a lógica da programação",
+              "links": [
+                "https://www.youtube.com/watch?v=HvP0kQU4Svk&list=PLhMbqdk2mNpcUE9z7zzqPBpDnOJQ3Jb17&index=18"
+              ],
+              "alert": "Para meia hora de aula, 5 de prática! Vamos comprovar nosso conhecimento!"
+            }
+          ]
+        },
+        {
+          "id": "$E84cZ9b2oZe",
+          "options": [
+            {
+              "title": "Como crescer no Front-End?",
+              "link": "https://www.treinaweb.com.br/blog/como-crescer-no-front-end"
+            },
+            {
+              "title": "100 dicas sobre desenvolvimento Front-end",
+              "link": "https://medium.com/@felipefialho/100-dicas-sobre-desenvolvimento-front-end-2079dcc752a7"
+            },
+            {
+              "title": "20 tópicos que todo desenvolvedor Front-end deveria saber",
+              "link": "https://www.impacta.com.br/blog/20-topicos-bom-desenvolvedor-front-end-deveria-saber/"
+            }
+          ]
+        },
+        {
+          "id": "aac846ET8uS",
+          "options": [
+            {
+              "title": "Use a Cabeça! Padrões de Projetos",
+              "asset": "../../../../assets/trails/options-trails/livros_ti360/livro1-front-end.png"
+            },
+            {
+              "title": "Código limpo: Habilidades Práticas do Agile Software",
+              "asset": "../../../../assets/trails/options-trails/livros_ti360/livro2-front-end.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0QhHvrL^z1w65*I",
+      "options": [
+        {
+          "id": "27rP&SEw0W9k",
+          "title": "UX",
+          "description": "Este plano de estudos foi desenvolvido de acordo com as demandas do mercado de trabalho atual, ao finalizar os estudos você estará apto a se lançar no mercado de trabalho.",
+          "course": [
+            {
+              "title": "START",
+              "type": "Teoria",
+              "description": "Comece por aqui",
+              "links": [
+                "https://www.youtube.com/watch?v=HvP0kQU4Svk&list=PLhMbqdk2mNpcUE9z7zzqPBpDnOJQ3Jb17&index=18"
+              ],
+              "alert": "Para meia hora de aula, 5 de prática! Vamos comprovar nosso conhecimento!"
+            },
+            {
+              "title": "JAVASCRIPT",
+              "type": "Pratica",
+              "description": "Aprenda a lógica da programação",
+              "links": [
+                "https://www.youtube.com/watch?v=HvP0kQU4Svk&list=PLhMbqdk2mNpcUE9z7zzqPBpDnOJQ3Jb17&index=18"
+              ],
+              "alert": "Para meia hora de aula, 5 de prática! Vamos comprovar nosso conhecimento!"
+            }
+          ]
+        },
+        {
+          "id": "$E84cZ9b2oZe",
+          "options": [
+            {
+              "title": "Como crescer no Front-End?",
+              "link": "https://www.treinaweb.com.br/blog/como-crescer-no-front-end"
+            },
+            {
+              "title": "100 dicas sobre desenvolvimento Front-end",
+              "link": "https://medium.com/@felipefialho/100-dicas-sobre-desenvolvimento-front-end-2079dcc752a7"
+            },
+            {
+              "title": "20 tópicos que todo desenvolvedor Front-end deveria saber",
+              "link": "https://www.impacta.com.br/blog/20-topicos-bom-desenvolvedor-front-end-deveria-saber/"
+            }
+          ]
+        },
+        {
+          "id": "aac846ET8uS",
+          "options": [
+            {
+              "title": "Use a Cabeça! Padrões de Projetos",
+              "asset": "../../../../assets/trails/options-trails/livros_ti360/livro1-front-end.png"
+            },
+            {
+              "title": "Código limpo: Habilidades Práticas do Agile Software",
+              "asset": "../../../../assets/trails/options-trails/livros_ti360/livro2-front-end.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0QhHvrL^z1w65*I",
+      "options": [
+        {
+          "id": "27rP&SEw0W9k",
+          "title": "UX",
+          "description": "Este plano de estudos foi desenvolvido de acordo com as demandas do mercado de trabalho atual, ao finalizar os estudos você estará apto a se lançar no mercado de trabalho.",
+          "course": [
+            {
+              "title": "START",
+              "type": "Teoria",
+              "description": "Comece por aqui",
+              "links": [
+                "https://www.youtube.com/watch?v=HvP0kQU4Svk&list=PLhMbqdk2mNpcUE9z7zzqPBpDnOJQ3Jb17&index=18"
+              ],
+              "alert": "Para meia hora de aula, 5 de prática! Vamos comprovar nosso conhecimento!"
+            },
+            {
+              "title": "JAVASCRIPT",
+              "type": "Pratica",
+              "description": "Aprenda a lógica da programação",
+              "links": [
+                "https://www.youtube.com/watch?v=HvP0kQU4Svk&list=PLhMbqdk2mNpcUE9z7zzqPBpDnOJQ3Jb17&index=18"
+              ],
+              "alert": "Para meia hora de aula, 5 de prática! Vamos comprovar nosso conhecimento!"
+            }
+          ]
+        },
+        {
+          "id": "$E84cZ9b2oZe",
+          "options": [
+            {
+              "title": "Como crescer no Front-End?",
+              "link": "https://www.treinaweb.com.br/blog/como-crescer-no-front-end"
+            },
+            {
+              "title": "100 dicas sobre desenvolvimento Front-end",
+              "link": "https://medium.com/@felipefialho/100-dicas-sobre-desenvolvimento-front-end-2079dcc752a7"
+            },
+            {
+              "title": "20 tópicos que todo desenvolvedor Front-end deveria saber",
+              "link": "https://www.impacta.com.br/blog/20-topicos-bom-desenvolvedor-front-end-deveria-saber/"
+            }
+          ]
+        },
+        {
+          "id": "aac846ET8uS",
+          "options": [
+            {
+              "title": "Use a Cabeça! Padrões de Projetos",
+              "asset": "../../../../assets/trails/options-trails/livros_ti360/livro1-front-end.png"
+            },
+            {
+              "title": "Código limpo: Habilidades Práticas do Agile Software",
+              "asset": "../../../../assets/trails/options-trails/livros_ti360/livro2-front-end.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "99I5940CrkHt!g",
+      "options": [
+        {
+          "id": "27rP&SEw0W9k",
+          "title": "Back End - JAVA",
+          "description": "Este plano de estudos foi desenvolvido de acordo com as demandas do mercado de trabalho atual, ao finalizar os estudos você estará apto a se lançar no mercado de trabalho.",
+          "course": [
+            {
+              "title": "START",
+              "type": "Teoria",
+              "description": "Comece por aqui",
+              "links": [
+                "https://www.youtube.com/watch?v=HvP0kQU4Svk&list=PLhMbqdk2mNpcUE9z7zzqPBpDnOJQ3Jb17&index=18"
+              ],
+              "alert": "Para meia hora de aula, 5 de prática! Vamos comprovar nosso conhecimento!"
+            },
+            {
+              "title": "JAVA",
+              "type": "Pratica",
+              "description": "Aprenda a lógica da programação",
+              "links": [
+                "https://www.youtube.com/watch?v=HvP0kQU4Svk&list=PLhMbqdk2mNpcUE9z7zzqPBpDnOJQ3Jb17&index=18"
+              ],
+              "alert": "Para meia hora de aula, 5 de prática! Vamos comprovar nosso conhecimento!"
+            }
+          ]
+        },
+        {
+          "id": "27rP&SEw0W9k-02",
+          "title": "Back End - NODE.JS",
+          "description": "Este plano de estudos foi desenvolvido de acordo com as demandas do mercado de trabalho atual, ao finalizar os estudos você estará apto a se lançar no mercado de trabalho.",
+          "course": [
+            {
+              "title": "START",
+              "type": "Teoria",
+              "description": "Comece por aqui",
+              "links": [
+                "https://www.youtube.com/watch?v=HvP0kQU4Svk&list=PLhMbqdk2mNpcUE9z7zzqPBpDnOJQ3Jb17&index=18"
+              ],
+              "alert": "Para meia hora de aula, 5 de prática! Vamos comprovar nosso conhecimento!"
+            },
+            {
+              "title": "JAVASCRIPT",
+              "type": "Pratica",
+              "description": "Aprenda a lógica da programação",
+              "links": [
+                "https://www.youtube.com/watch?v=HvP0kQU4Svk&list=PLhMbqdk2mNpcUE9z7zzqPBpDnOJQ3Jb17&index=18"
+              ],
+              "alert": "Para meia hora de aula, 5 de prática! Vamos comprovar nosso conhecimento!"
+            }
+          ]
+        },
+        {
+          "id": "27rP&SEw0W9k-03",
+          "title": "Back End - PYTHON",
+          "description": "Este plano de estudos foi desenvolvido de acordo com as demandas do mercado de trabalho atual, ao finalizar os estudos você estará apto a se lançar no mercado de trabalho.",
+          "course": [
+            {
+              "title": "START",
+              "type": "Teoria",
+              "description": "Comece por aqui",
+              "links": [
+                "https://www.youtube.com/watch?v=HvP0kQU4Svk&list=PLhMbqdk2mNpcUE9z7zzqPBpDnOJQ3Jb17&index=18"
+              ],
+              "alert": "Para meia hora de aula, 5 de prática! Vamos comprovar nosso conhecimento!"
+            },
+            {
+              "title": "PYTHON",
+              "type": "Pratica",
+              "description": "Aprenda a lógica da programação",
+              "links": [
+                "https://www.youtube.com/watch?v=HvP0kQU4Svk&list=PLhMbqdk2mNpcUE9z7zzqPBpDnOJQ3Jb17&index=18"
+              ],
+              "alert": "Para meia hora de aula, 5 de prática! Vamos comprovar nosso conhecimento!"
+            },
+            {
+              "title": "CRIANDO API CRUD",
+              "type": "Pratica",
+              "description": "Aprenda a lógica da programação",
+              "links": [
+                "https://www.youtube.com/watch?v=HvP0kQU4Svk&list=PLhMbqdk2mNpcUE9z7zzqPBpDnOJQ3Jb17&index=18"
+              ],
+              "alert": "Para meia hora de aula, 5 de prática! Vamos comprovar nosso conhecimento!"
+            }
+          ]
+        },
+        {
+          "id": "$E84cZ9b2oZe",
+          "options": [
+            {
+              "title": "Como crescer no Front-End?",
+              "link": "https://www.treinaweb.com.br/blog/como-crescer-no-front-end"
+            },
+            {
+              "title": "100 dicas sobre desenvolvimento Front-end",
+              "link": "https://medium.com/@felipefialho/100-dicas-sobre-desenvolvimento-front-end-2079dcc752a7"
+            },
+            {
+              "title": "20 tópicos que todo desenvolvedor Front-end deveria saber",
+              "link": "https://www.impacta.com.br/blog/20-topicos-bom-desenvolvedor-front-end-deveria-saber/"
+            }
+          ]
+        },
+        {
+          "id": "aac846ET8uS",
+          "options": [
+            {
+              "title": "Use a Cabeça! Padrões de Projetos",
+              "asset": "../../../../assets/trails/options-trails/livros_ti360/livro1-front-end.png"
+            },
+            {
+              "title": "Código limpo: Habilidades Práticas do Agile Software",
+              "asset": "../../../../assets/trails/options-trails/livros_ti360/livro2-front-end.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A84*BjQ9a2j50RX",
+      "options": [
+        {
+          "id": "27rP&SEw0W9k",
+          "title": "QA",
+          "description": "Este plano de estudos foi desenvolvido de acordo com as demandas do mercado de trabalho atual, ao finalizar os estudos você estará apto a se lançar no mercado de trabalho.",
+          "course": [
+            {
+              "title": "START",
+              "type": "Teoria",
+              "description": "Comece por aqui",
+              "links": [
+                "https://www.youtube.com/watch?v=HvP0kQU4Svk&list=PLhMbqdk2mNpcUE9z7zzqPBpDnOJQ3Jb17&index=18",
+                "https://www.youtube.com/watch?v=HvP0kQU4Svk&list=PLhMbqdk2mNpcUE9z7zzqPBpDnOJQ3Jb17&index=18",
+                "https://www.youtube.com/watch?v=HvP0kQU4Svk&list=PLhMbqdk2mNpcUE9z7zzqPBpDnOJQ3Jb17&index=18"
+              ],
+              "alert": "Para meia hora de aula, 5 de prática! Vamos comprovar nosso conhecimento!"
+            },
+            {
+              "title": "JAVASCRIPT",
+              "type": "Pratica",
+              "description": "Aprenda a lógica da programação",
+              "links": [
+                "https://www.youtube.com/watch?v=HvP0kQU4Svk&list=PLhMbqdk2mNpcUE9z7zzqPBpDnOJQ3Jb17&index=18"
+              ],
+              "alert": "Para meia hora de aula, 5 de prática! Vamos comprovar nosso conhecimento!"
+            }
+          ]
+        },
+        {
+          "id": "$E84cZ9b2oZe",
+          "options": [
+            {
+              "title": "Como crescer no Front-End?",
+              "link": "https://www.treinaweb.com.br/blog/como-crescer-no-front-end"
+            },
+            {
+              "title": "100 dicas sobre desenvolvimento Front-end",
+              "link": "https://medium.com/@felipefialho/100-dicas-sobre-desenvolvimento-front-end-2079dcc752a7"
+            },
+            {
+              "title": "20 tópicos que todo desenvolvedor Front-end deveria saber",
+              "link": "https://www.impacta.com.br/blog/20-topicos-bom-desenvolvedor-front-end-deveria-saber/"
+            }
+          ]
+        },
+        {
+          "id": "aac846ET8uS",
+          "options": [
+            {
+              "title": "Use a Cabeça! Padrões de Projetos",
+              "asset": "../../../../assets/trails/options-trails/livros_ti360/livro1-front-end.png"
+            },
+            {
+              "title": "Código limpo: Habilidades Práticas do Agile Software",
+              "asset": "../../../../assets/trails/options-trails/livros_ti360/livro2-front-end.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "S4r*s7gE31QAaFB",
+      "options": [
+        {
+          "id": "27rP&SEw0W9k",
+          "title": "Análise de Dados",
+          "description": "Este plano de estudos foi desenvolvido de acordo com as demandas do mercado de trabalho atual, ao finalizar os estudos você estará apto a se lançar no mercado de trabalho.",
+          "course": [
+            {
+              "title": "START",
+              "type": "Teoria",
+              "description": "Comece por aqui",
+              "links": [
+                "https://www.youtube.com/watch?v=HvP0kQU4Svk&list=PLhMbqdk2mNpcUE9z7zzqPBpDnOJQ3Jb17&index=18"
+              ],
+              "alert": "Para meia hora de aula, 5 de prática! Vamos comprovar nosso conhecimento!"
+            },
+            {
+              "title": "JAVASCRIPT",
+              "type": "Pratica",
+              "description": "Aprenda a lógica da programação",
+              "links": [
+                "https://www.youtube.com/watch?v=HvP0kQU4Svk&list=PLhMbqdk2mNpcUE9z7zzqPBpDnOJQ3Jb17&index=18"
+              ],
+              "alert": "Para meia hora de aula, 5 de prática! Vamos comprovar nosso conhecimento!"
+            }
+          ]
+        },
+        {
+          "id": "27rP&SEw0W9k-02",
+          "title": "Engenharia de Dados",
+          "description": "Este plano de estudos foi desenvolvido de acordo com as demandas do mercado de trabalho atual, ao finalizar os estudos você estará apto a se lançar no mercado de trabalho.",
+          "course": [
+            {
+              "title": "START",
+              "type": "Teoria",
+              "description": "Comece por aqui",
+              "links": [
+                "https://www.youtube.com/watch?v=HvP0kQU4Svk&list=PLhMbqdk2mNpcUE9z7zzqPBpDnOJQ3Jb17&index=18"
+              ],
+              "alert": "Para meia hora de aula, 5 de prática! Vamos comprovar nosso conhecimento!"
+            },
+            {
+              "title": "JAVASCRIPT",
+              "type": "Pratica",
+              "description": "Aprenda a lógica da programação",
+              "links": [
+                "https://www.youtube.com/watch?v=HvP0kQU4Svk&list=PLhMbqdk2mNpcUE9z7zzqPBpDnOJQ3Jb17&index=18"
+              ],
+              "alert": "Para meia hora de aula, 5 de prática! Vamos comprovar nosso conhecimento!"
+            }
+          ]
+        },
+        {
+          "id": "$E84cZ9b2oZe",
+          "options": [
+            {
+              "title": "Como crescer no Front-End?",
+              "link": "https://www.treinaweb.com.br/blog/como-crescer-no-front-end"
+            },
+            {
+              "title": "100 dicas sobre desenvolvimento Front-end",
+              "link": "https://medium.com/@felipefialho/100-dicas-sobre-desenvolvimento-front-end-2079dcc752a7"
+            },
+            {
+              "title": "20 tópicos que todo desenvolvedor Front-end deveria saber",
+              "link": "https://www.impacta.com.br/blog/20-topicos-bom-desenvolvedor-front-end-deveria-saber/"
+            }
+          ]
+        },
+        {
+          "id": "aac846ET8uS",
+          "options": [
+            {
+              "title": "Use a Cabeça! Padrões de Projetos",
+              "asset": "../../../../assets/trails/options-trails/livros_ti360/livro1-front-end.png"
+            },
+            {
+              "title": "Código limpo: Habilidades Práticas do Agile Software",
+              "asset": "../../../../assets/trails/options-trails/livros_ti360/livro2-front-end.png"
+            }
+          ]
+        }
+      ]
+    }
+
+
+
+  ]
+}
