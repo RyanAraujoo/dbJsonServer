@@ -37,27 +37,15 @@
         },
         {
           "id": "$E84cZ9b2oZe",
-          "options": [
-            {
-              "title": "As 10 Principais características do Papel do PO e como cada uma delas gera resultado?",
-              "link": "https://www.metodoagil.com/papel-do-po/"
-            },
-            {
-              "title": "Como é o dia a dia de um product owner durante o home office",
-              "link": "https://inovacaobrain.com.br/dia-a-dia-de-um-product-owner/"
-            },
-            {
-              "title": "Product Owner – 10 dicas valiosas para a Gestão do Produto",
-              "link": "https://www.gp4us.com.br/product-owner/"
-            }
-          ]
+          "options": []
         },
         {
           "id": "aac846ET8uS",
           "options": [
             {
               "title": "Lean Inception",
-              "asset": "../../../../assets/trails/options-trails/livros_ti360/livro1-lean-inception.png"
+              "asset": "../../../../assets/trails/options-trails/livros_ti360/livro1-lean-inception.png",
+               "link": "https://inovacaobrain.com.br/dia-a-dia-de-um-product-owner/"
             },
             {
               "title": "Código limpo: Habilidades Práticas do Agile Software",
