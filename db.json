@@ -44,12 +44,12 @@
           "options": [
             {
               "title": "Lean Inception",
-              "asset": "../../../../assets/trails/options-trails/livros_ti360/livro1-lean-inception.png",
+              "asset": "../../../../assets/trails/options-trails/livros_ti360/livro1-lean-inception.webp",
                "link": "https://inovacaobrain.com.br/dia-a-dia-de-um-product-owner/"
             },
             {
               "title": "Código limpo: Habilidades Práticas do Agile Software",
-              "asset": "../../../../assets/trails/options-trails/livros_ti360/livro2-front-end.png"
+              "asset": "../../../../assets/trails/options-trails/livros_ti360/livro2-front-end.webp"
             }
           ]
         }
